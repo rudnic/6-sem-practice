@@ -1,0 +1,47 @@
+{
+    "title": "Cards",
+    "cardsData": [
+        {
+            "img_link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.B4UmElDpzK45gL6Fc0Jh2QHaKd%26pid%3DApi&f=1",
+            "card_title": "First - ",
+            "card_name": "this is first",
+            "card_subtitle": "First subtitle"
+        },
+
+        {
+            "img_link": "http://1.bp.blogspot.com/-Btpkwq1MZF0/U8zLjFR1fuI/AAAAAAAAVvY/vVNEQWtzWHU/s1600/%D0%94%D0%B2%D0%B0.gif",
+            "card_title": "Second - ",
+            "card_name": "this is second",
+            "card_subtitle": "Second subtitle"
+        },
+
+        {
+            "img_link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JgAkfc-F-9GpUIom8OfTdgHaKd%26pid%3DApi&f=1",
+            "card_title": "Third - " ,
+            "card_name": "this is third",
+            "card_subtitle": "Third subtitle"
+        },
+
+        {
+            "img_link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Tb3Vd2JAMoEWWffspbqtegHaKd%26pid%3DApi&f=1",
+            "card_title": "Fourth - ",
+            "card_name": "this is fourth",
+            "card_subtitle": "Fourth subtitle"
+        },
+
+        {
+            "img_link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cP5mF56rwNkGs2Few3ZGOwHaKd%26pid%3DApi&f=1",
+            "card_title": "Fifth - ",
+            "card_name": "this is fifth",
+            "card_subtitle": "Fifth subtitle"
+        },
+
+        {
+            "img_link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tyh_vir2JZdkcG_mwEkU3QHaKd%26pid%3DApi&f=1",
+            "card_title": "Sixth - ",
+            "card_name": "this is sixth",
+            "card_subtitle": "Sixth subtitle"
+        }
+    ]
+    
+}

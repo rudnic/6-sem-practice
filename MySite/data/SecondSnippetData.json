@@ -1,0 +1,50 @@
+{
+    "title": "Наши лидеры",
+    "cardsData": [
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/3996077.jpg",
+            "person_name": "Billy Harrington",
+            "person_position": "Лорд раздевалки"
+        },
+        {
+            "img_link": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fn4k.ru%2Fuploads%2Fposts%2F2019-06%2F1561447636_1231.jpg&f=1&nofb=1",
+            "person_name": "Владимир Путин",
+            "person_position": "Верховный главнокомандующий"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/552578.jpg",
+            "person_name": "Blake Harper",
+            "person_position": "Босс качалки"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/54174.jpg",
+            "person_name": "Colton Ford",
+            "person_position": "Блатной Князь"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/1243967.jpg",
+            "person_name": "Nino Bacci",
+            "person_position": "Пельменный монстр"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/1243576.jpg",
+            "person_name": "Casey Williams",
+            "person_position": "Дикий вепрь"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/1243935.jpg",
+            "person_name": "Jay Ross",
+            "person_position": "Дракула"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/1243631.jpg",
+            "person_name": "Tino Lopez",
+            "person_position": "Ночной афганец"
+        },
+        {
+            "img_link": "https://www.kinopoisk.ru/images/sm_actor/1027298.jpg",
+            "person_name": "Tom Katt",
+            "person_position": "Белый Рэмбо"
+        }
+    ]
+}
